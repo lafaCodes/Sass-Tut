@@ -1,0 +1,16 @@
+//All the media queries here
+@media (max-width: 700px) {
+    .showcase {
+        height: 400px;
+
+        &-content {
+            text-align: center;
+
+            img {
+                display: none;
+            }
+        }
+
+    }
+}
+                                                                                                                        
